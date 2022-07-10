@@ -58,7 +58,7 @@
         "panthera": false,
         "astrobwt": false
     },
-    "donate-level": 0,
+    "donate-level": 1,
     "donate-over-proxy": 1,
     "log-file": "/home/deuterium/moneroocean/xmrig.log",
     "pools": [
